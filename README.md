@@ -18,10 +18,6 @@ repository via GitHub Pages. There is no build step required to view or deploy i
   - `courses/` — teaching materials (`applied_metrics`, `introductory_econ`, `python_and_machine_learning`).
   - icons, favicon, `manifest.json`, `robots.txt`.
 
-> **Note:** `src/` and `package.json` are legacy [Create React App](https://github.com/facebook/create-react-app)
-> scaffolding from an earlier version of the site. The published site is the static
-> HTML described above; the React code is no longer the source of truth.
-
 ## Local preview
 
 No tooling is needed — open `index.html` directly in a browser, or serve the folder
